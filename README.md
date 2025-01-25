@@ -1,1 +1,1 @@
-Basic environment set up for a graphics/shader programming in CLION.
+Basic environment set up for graphics/shader programming in CLION.
